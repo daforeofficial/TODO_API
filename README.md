@@ -10,13 +10,13 @@ A Django-based API for managing tasks, including task creation, updating, deleti
 - Docker Compose
 
 ### Installation
-   git clone https://github.com/daforeofficial/TODO_API
-   python virtualenv env
-   cd todo_api
-   pip install requirements.txt
-   python manage.py makemigrations
-   python manage.py migrate
-   python manage.py runsever
+   - git clone https://github.com/daforeofficial/TODO_API
+   - python virtualenv env
+   - cd todo_api
+   - pip install requirements.txt
+   - python manage.py makemigrations
+   - python manage.py migrate
+   - python manage.py runsever
 
 #### API Endpoints
 

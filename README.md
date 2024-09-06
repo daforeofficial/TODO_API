@@ -19,6 +19,7 @@ A Django-based API for managing tasks, including task creation, updating, deleti
    python manage.py runsever
 
 #### API Endpoints
+
 GET /tasks/ - List all tasks
 POST /tasks/ - Create a new task
 GET /tasks/{id}/ - Retrieve a task by ID

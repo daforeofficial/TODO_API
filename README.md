@@ -35,7 +35,7 @@ A Django-based API for managing tasks, including task creation, updating, deleti
 - Create Task: curl -X POST http://localhost:8000/tasks/ -H "Content-Type: application/json" -d '{"title": "New Task", "description": "Task description"}'
 ---> And many more.....
 
-License
+## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contributing

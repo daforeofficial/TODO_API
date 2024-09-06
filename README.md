@@ -38,10 +38,10 @@ A Django-based API for managing tasks, including task creation, updating, deleti
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+## Contributing
 - If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-Contact
+### Contact
 - For any questions or feedback, please contact offline4evr@gmail.com.
 
 # Creator

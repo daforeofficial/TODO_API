@@ -18,7 +18,7 @@ A Django-based API for managing tasks, including task creation, updating, deleti
    - python manage.py migrate
    - python manage.py runsever
 
-#### API Endpoints
+### API Endpoints
 
 - GET /tasks/ - List all tasks
 - POST /tasks/ - Create a new task
@@ -30,15 +30,15 @@ A Django-based API for managing tasks, including task creation, updating, deleti
 
 ![image](https://github.com/user-attachments/assets/730ddd6f-9784-4f94-9075-88b15334b7c8)
 
-# Example API Requests
+## Example API Requests
 - List Tasks: curl -X GET http://localhost:8000/tasks/
 - Create Task: curl -X POST http://localhost:8000/tasks/ -H "Content-Type: application/json" -d '{"title": "New Task", "description": "Task description"}'
 ---> And many more.....
 
-## License
+### License
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contributing
+### Contributing
 - If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ### Contact

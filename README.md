@@ -26,7 +26,7 @@ A Django-based API for managing tasks, including task creation, updating, deleti
 - PUT /tasks/{id}/ - Update a task by ID
 - DELETE /tasks/{id}/ - Delete a task by ID
 
--- more you can visit api documentation after launching project at [https://lcoalhost/](http://localhost:8000/swagger/)
+--> more you can visit api documentation after launching project at [https://lcoalhost/](http://localhost:8000/swagger/)
 
 ![image](https://github.com/user-attachments/assets/730ddd6f-9784-4f94-9075-88b15334b7c8)
 
